@@ -25,7 +25,7 @@
 **Investigación**
 Realizamos entrevistas en terreno y encuestas online enfocadas a obtener la mayor cantidad posible de información respecto a las problematicas y necesidades de los usuarios en el momento de utilizar los servicios digitales en su proceso de compra.
 
-![Pantallazo](assets/encuesta.png)
+![Pantallazo](assets/guion.jpg)
 
 **Sintesis**
 
@@ -40,7 +40,7 @@ Realizamos entrevistas en terreno y encuestas online enfocadas a obtener la mayo
 
 ![Pantallazo](assets/mapaafinidad.png)
 
-**a partir de estas necesidades definimos los siguientes objetivos de la plataforma:**
+**A partir de estas necesidades definimos los siguientes objetivos de la plataforma:**
 
 - Agilizar el proceso de compra y anulación de pasajes de bus, a la vez de poder realizar un feedback del servicio mediante una calificación.
 - Disminuir la incertidumbre provocada por la espera de buses y/o dificultad en la ubicación de éstos al llegar a su respectivo andén.
@@ -49,7 +49,10 @@ Realizamos entrevistas en terreno y encuestas online enfocadas a obtener la mayo
 
 Tomamos a los usuarios más representativos para realizar nuesto user persona:
 
-(COLOCAR IMAGENES USER PERSONAS 3)
+![Pantallazo](assets/gueraa.png)
+![Pantallazo](assets/anita.png)
+![Pantallazo](assets/serguio.png)
+
 
 **Técnicas de Brain Storming**
 - Realizamos un ejercicio en equipo de Problem Statement, HWM y What If, en donde nos enfocamoss en el usuario que más exigencias requería al momento de comprar pasajes de buses y con más posibilidades de resolver a través de una solución digital, en este caso Sergio Guerra.
@@ -64,7 +67,7 @@ Tomamos a los usuarios más representativos para realizar nuesto user persona:
 
 SKETCH SELECCIONADO
 
-(COLOCAR IMAGENES STKETCH SELECIONADO)
+![Pantallazo](assets/sketch.png)
 
 
 Luego de escoger el mejor formato realizamos el wireframe de alta fidelidad.
@@ -73,21 +76,26 @@ Luego de escoger el mejor formato realizamos el wireframe de alta fidelidad.
 
 - Testeamos nuestro wireframe en alta resolución mediante guerrilla testing en el terminal de buses de San Borja, luego iteramos a una segunda versión con algunos aspectos mejorados:
 
-WIREFRAME TOTEM V.1 MARVEL APP
+[LINK WIREFRAME TOTEM V.1 MARVEL APP](https://marvelapp.com/36ef2b0/screen/37746896)
 - Totem informativo.
 - Opción de imprimir y ver información de mi pasaje.
 
-WIREFRAME WEB V.1 MARVEL APP
+ [LINK WIREFRAME WEB V.1 MARVEL APP](https://marvelapp.com/36ef2b0/screen/37748504)
 - Comparar y comprar pasajes de buses en web.
 - Elegir pasajes login para ser socio preferencial
 
-WIREFRAME TOTEM V.2 MARVEL APP
+[LINK WIREFRAME TOTEM V.2 MARVEL APP](https://marvelapp.com/7h7a14h/screen/38130994)
 - Totem con opción idioma ingles.
 - Diseño de pasaje impreso por el totem y mejoras en la información que muestra(mapa de anden, horario de viajes)
 - Mejoras en la entrega de información en general.
 
-WIREFRAME WEB V.2 MARVEL APP
+[LINK WIREFRAME WEB V.2 MARVEL APP](https://marvelapp.com/7h7a14h/screen/38131000)
 - Mejoras en la entrega de información en general.
 - Opción de calificar el viaje realizado según estándares como calidad del bus, atención del chofer, cumplimiento de horarios de los viajes.
 - Login de perfil de usuario con listado de viajes realizados y pendientes.
 - Opción de Anular o reagendar pasajes desde la web.
+
+**Conclusión**
+En el proceso de testing se pudo validar nuestra investigación y cumplir nuestrs objetivos. El testing se realizo en el terminal San Borja en donde gracias a la opinión de los usuarios pudimos iterar nuestro producto, alcanzado las espectativas necesarias para suplir las necesidades de nuestros usuarios.
+
+![Pantallazo](assets/testeo.png)
