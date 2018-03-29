@@ -38,7 +38,7 @@ Realizamos entrevistas en terreno y encuestas online enfocadas a obtener la mayo
 - Que los Buses lleguen a la hora indicada en los andenes.
 - Que las madres puedan entreter a sus hijos durante la espera del bus en general quieren un viaje confortable.
 
-![Pantallazo](assets/mapaafinidad.png)
+![Pantallazo](assets/mapaafinidad.jpg)
 
 **A partir de estas necesidades definimos los siguientes objetivos de la plataforma:**
 
@@ -49,9 +49,9 @@ Realizamos entrevistas en terreno y encuestas online enfocadas a obtener la mayo
 
 Tomamos a los usuarios más representativos para realizar nuesto user persona:
 
-![Pantallazo](assets/gueraa.png)
+![Pantallazo](assets/guerra.png)
 ![Pantallazo](assets/anita.png)
-![Pantallazo](assets/serguio.png)
+![Pantallazo](assets/sergio.png)
 
 
 **Técnicas de Brain Storming**
