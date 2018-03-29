@@ -1,6 +1,6 @@
 # Empire Bus: Experiencia de usuario en empresas de buses.
 
-![Pantallazo](assets/presentacion.jpeg)
+![Pantallazo](assets/presentacion.jpg)
 
 ## Desarrollado para LABORATORIA
 
